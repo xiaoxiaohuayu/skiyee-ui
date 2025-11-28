@@ -108,6 +108,38 @@
           "type": "page"
         },
         {
+          "path": "divider/base",
+          "type": "page"
+        },
+        {
+          "path": "divider/color",
+          "type": "page"
+        },
+        {
+          "path": "divider/dashed",
+          "type": "page"
+        },
+        {
+          "path": "divider/hairline",
+          "type": "page"
+        },
+        {
+          "path": "divider/position",
+          "type": "page"
+        },
+        {
+          "path": "divider/text",
+          "type": "page"
+        },
+        {
+          "path": "divider/thickness",
+          "type": "page"
+        },
+        {
+          "path": "divider/vertical",
+          "type": "page"
+        },
+        {
           "path": "icon/base",
           "type": "page"
         },

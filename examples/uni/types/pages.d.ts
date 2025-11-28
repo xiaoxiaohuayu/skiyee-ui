@@ -27,6 +27,14 @@ interface NavigateToOptions {
        "/pages-basic/button/size" |
        "/pages-basic/button/usage" |
        "/pages-basic/button/variant" |
+       "/pages-basic/divider/base" |
+       "/pages-basic/divider/color" |
+       "/pages-basic/divider/dashed" |
+       "/pages-basic/divider/hairline" |
+       "/pages-basic/divider/position" |
+       "/pages-basic/divider/text" |
+       "/pages-basic/divider/thickness" |
+       "/pages-basic/divider/vertical" |
        "/pages-basic/icon/base" |
        "/pages-basic/icon/color" |
        "/pages-basic/icon/name" |

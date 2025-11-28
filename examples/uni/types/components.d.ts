@@ -12,6 +12,7 @@ declare module 'vue' {
     SkCheckbox: typeof import('@skiyee/uni-ui/components/sk-checkbox.vue')['default']
     SkCheckboxGroup: typeof import('@skiyee/uni-ui/components/sk-checkbox-group.vue')['default']
     SkDialog: typeof import('@skiyee/uni-ui/components/sk-dialog.vue')['default']
+    SkDivider: typeof import('@skiyee/uni-ui/components/sk-divider.vue')['default']
     SkField: typeof import('@skiyee/uni-ui/components/sk-field.vue')['default']
     SkForm: typeof import('@skiyee/uni-ui/components/sk-form.vue')['default']
     SkIcon: typeof import('@skiyee/uni-ui/components/sk-icon.vue')['default']

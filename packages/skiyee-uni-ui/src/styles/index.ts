@@ -21,6 +21,9 @@ export { SkCheckboxGroupUcv } from './sk-checkbox-group'
 export type { SkDialogUcvProps } from './sk-dialog'
 export { SkDialogUcv } from './sk-dialog'
 
+export type { SkDividerUcvProps } from './sk-divider'
+export { SkDividerUcv } from './sk-divider'
+
 export type { SkFieldUcvProps } from './sk-field'
 export { SkFieldUcv } from './sk-field'
 
